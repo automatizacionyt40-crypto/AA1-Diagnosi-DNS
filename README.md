@@ -107,7 +107,7 @@ El mapa conceptual resumeix els conceptes principals del sistema DNS:
 
 En aquesta part s'ha de presentar un vídeo explicant el funcionament del DNS i els conceptes principals treballats en l'activitat.
 
-**Enllaç al vídeo:** [ENGANXA AQUÍ L'ENLLAÇ DEL VÍDEO]
+**Enllaç al vídeo:** (https://drive.google.com/file/d/1MC7_VVnhnUOjdoWqPoxG93j9xEMumu1b/view?usp=sharing)
 
 # 9. Part pràctica: diagnosi DNS
 
