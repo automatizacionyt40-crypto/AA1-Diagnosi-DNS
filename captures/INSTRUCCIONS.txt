@@ -1,0 +1,22 @@
+CAPTURES DE LA PRÀCTICA
+
+Copia les teves captures dins d'aquesta carpeta i posa'ls aquests noms:
+
+01_virtualbox_xarxa.png
+02_ip_a.png
+03_dig_A.png
+04_dig_NS.png
+05_dig_SOA.png
+06_dig_PTR.png
+07_nslookup_no_autoritativa.png
+08_nslookup_autoritativa.png
+09_hostname.png
+10_avahi_status.png
+11_avahi_resolucio.png
+12_ping_local.png
+mapa_conceptual.png
+
+Després obre guia.md i substitueix cada indicació [INSEREIX LA CAPTURA...] per una imatge Markdown, per exemple:
+![Consulta A](captures/03_dig_A.png)
+
+No afegeixis cap captura d'una prova que no hagis fet.
